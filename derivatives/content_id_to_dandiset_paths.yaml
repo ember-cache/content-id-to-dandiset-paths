@@ -901,6 +901,9 @@
 14b56e1d-8228-49fb-ac10-3f25418171c7:
   '000463':
   - sub-mpn04/sub-mpn04_ses-20260109T175903_image/48a3d3d5-4da6-4ef1-9763-f64690d42ccf_external_file_0.avi
+14d390e6-688c-4050-b18e-3e9814e8563d:
+  000469:
+  - .bidsignore
 14e12d33-992a-4c01-bd22-b93d9d230866:
   '000463':
   - sub-m04RF/sub-m04RF_ses-20250205T133100_image/df8e9f91-f67b-4c2c-9103-022cd1c60329_external_file_2.avi
@@ -2683,9 +2686,6 @@
 40a495ef-8964-4574-8378-64f99c8f90cb:
   '000463':
   - sub-msn04/sub-msn04_ses-20230801T150426_image.nwb
-40c5d542-1a9b-4535-b09d-e81f1d5b867d:
-  000469:
-  - derivatives/emberset-test0/sub-test1/sub-test1_ses-test2/frame-1728821_id-9cf283bd429544f88f560c9581802527.json
 40d1c231-9ad1-45b3-bcef-90291be6c119:
   '000463':
   - sub-m02RF/sub-m02RF_ses-20241105T142416_image/7eacb06a-e9d2-47a4-bff9-f48cf989fa7a_external_file_0.avi
@@ -3262,6 +3262,9 @@
 4e1ecd8a-52b3-4cfa-89c6-13ffa7b77a48:
   '000463':
   - sub-ADPTM02/sub-ADPTM02_ses-20250313T134133_image/00157e0c-1d24-4ef5-8d18-26cc97f937b1_external_file_5.avi
+4e2158e5-aa65-4903-a31d-9a0b595a0bd4:
+  000469:
+  - dataset_description.json
 4e38c393-cfd3-4ef1-81ef-f7ff594aa986:
   '000463':
   - sub-vg07/sub-vg07_ses-20250627T154610_image/d37ea667-b4b9-4d4a-ae6a-ca865d80f17d_external_file_4.avi
@@ -3907,6 +3910,9 @@
 5e99b5de-b1cd-4990-a7b1-d8d137fb3654:
   '000463':
   - sub-ADPTM04/sub-ADPTM04_ses-20250421T144518_image/625ee30d-1d3c-47c1-959d-97ad71ee857e_external_file_2.avi
+5f0ed97e-910b-4401-8308-814a4b1676f3:
+  000469:
+  - derivatives/incoming/id-b20402c3f1f045cca90b1604d9d9cce1.json
 5f5756a3-2f24-4c0d-8c7d-0493438328e0:
   '000463':
   - sub-ADPTM02/sub-ADPTM02_ses-20250313T131813_image/4ee2734d-76b0-4043-a9d1-c6ce3f92393a_external_file_3.avi
@@ -5629,6 +5635,9 @@
 87119c66-f889-4eb7-a2fb-7c5284ca894f:
   '000463':
   - sub-msn04/sub-msn04_ses-20230719T175555_image/dab3a313-3aaa-4ae3-90c8-332a24c73340_external_file_2.avi
+8714a547-4450-4450-900d-adbc8e2a00da:
+  000469:
+  - derivatives/incoming/id-5e70fd1577cc4e2a9bc60e3abbf3ccff.json
 87270523-3f8c-43ea-bec7-e489bb3d11ef:
   '000463':
   - sub-ADPTM06/sub-ADPTM06_ses-20250423T153213_image/ef9c731e-e3a8-41d7-83eb-d49c9202e430_external_file_4.avi
@@ -8449,6 +8458,9 @@ cbcddefc-5184-44ae-a38a-82a38e8c6b2d:
 cbea6114-56d9-4b9d-a576-5934e8572e86:
   '000463':
   - sub-msn04/sub-msn04_ses-20230718T142125_image.nwb
+cc027406-3e6f-46fb-9d9f-70e3e88f31c1:
+  000469:
+  - derivatives/incoming/id-acb622ce377e4f8f8db95845e9840847.json
 cc1cfea4-2e7a-4f7b-9d1c-90e390578f2c:
   '000463':
   - sub-ADPTM06/sub-ADPTM06_ses-20250425T142220_image/61602c35-60f2-4dde-9709-0d85ccebf32e_external_file_0.avi
@@ -10188,6 +10200,9 @@ f7a2f3e4-322a-4847-a5fc-c8d6623048de:
 f7caf75d-21c3-4100-b6c4-d46db97bcbb6:
   '000463':
   - sub-ADPTM05/sub-ADPTM05_ses-20250417T141701_image/bb048421-6a99-41e9-8972-f2fbe0cc8c9b_external_file_0.avi
+f7d5a2eb-90fc-4c47-ada5-be045baa3579:
+  000469:
+  - derivatives/incoming/id-c1404c2cc9474be09499f918ff8d3bb4.json
 f81e24d1-4896-4df3-a789-56edff415329:
   '000463':
   - sub-vgm101/sub-vgm101_ses-20251003T155838_image/fadc83b2-619b-4def-afc4-18b94aef7922_external_file_2.avi
