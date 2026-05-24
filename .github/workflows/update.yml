@@ -37,7 +37,7 @@ jobs:
 
       - name: Run update
         run: |
-          uv run --project envs s5cmd --no-sign-request sync "s3://dandiarchive/dandisets/*/assets.yaml" sourcedata || true
+          uv run --project envs s5cmd --no-sign-request sync "s3://ember-open-data/dandisets/*/assets.yaml" sourcedata || true
           uv run --project envs python ./code/update.py
 
       - name: Upload YAML
