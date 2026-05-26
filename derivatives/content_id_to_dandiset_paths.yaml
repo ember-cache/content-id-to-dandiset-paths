@@ -3513,6 +3513,9 @@
 54f642c4-c6b5-4640-91ca-8f930d80eeee:
   '000463':
   - sub-ADPTM03/sub-ADPTM03_ses-20250306T180412_image/94cd2b66-ca4f-40b8-998e-6905ac4c4898_external_file_1.avi
+54fe9fff-1b88-4e73-8d06-47c2b783373a:
+  000469:
+  - dataset_description.json
 55118dd1-c0de-4330-8fdc-27757a64065b:
   '000463':
   - sub-m2669423/sub-m2669423_ses-20240418T144753_image/503bd4ff-c791-4dbe-9275-994a655e6d57_external_file_4.avi
@@ -10256,9 +10259,6 @@ f7988de4-98fb-49c9-b5dd-998971276689:
 f7a2f3e4-322a-4847-a5fc-c8d6623048de:
   '000463':
   - sub-msn05/sub-msn05_ses-20230719T160556_image/29672689-e410-4991-a3bc-fe729a6c19e4_external_file_4.avi
-f7a8f2a9-cca9-427c-a601-e7eed027de53:
-  000469:
-  - dataset_description.json
 f7caf75d-21c3-4100-b6c4-d46db97bcbb6:
   '000463':
   - sub-ADPTM05/sub-ADPTM05_ses-20250417T141701_image/bb048421-6a99-41e9-8972-f2fbe0cc8c9b_external_file_0.avi
