@@ -2841,6 +2841,9 @@
 44582ca8-de8f-41b6-8fee-506c54018a30:
   '000463':
   - sub-m01RF/sub-m01RF_ses-20241104T151631_image/54bbaa34-d700-42da-bc09-bc3d33ac95f4_external_file_4.avi
+446f2c35-1d16-42ca-b435-25fcfbd931fb:
+  '000431':
+  - sub-foo/sub-foo_ses-test-automatic-upload-linux-3-10-20.nwb
 44926c00-4541-4541-b73b-58c47240f392:
   '000463':
   - sub-msn04/sub-msn04_ses-20230718T135932_image/58e3a12c-10d0-4c58-bc5d-e1147a4b373f_external_file_2.avi
@@ -9141,9 +9144,6 @@ dba011f4-0c6d-4605-bcad-627c7da12f7e:
 dbc35d3e-c243-44ca-9c7c-aa0165418661:
   '000463':
   - sub-vg07/sub-vg07_ses-20250627T154014_image.nwb
-dbc8ac55-c2a9-4c57-a748-59106db9f05a:
-  '000431':
-  - sub-foo/sub-foo_ses-test-automatic-upload-linux-3-10-20.nwb
 dbce8d99-dd46-455d-8332-10f594f406bd:
   '000463':
   - sub-m05RF/sub-m05RF_ses-20250130T124334_image/14ea15d5-a260-4b33-8967-185e4dc0335a_external_file_2.avi
