@@ -811,6 +811,9 @@
 12e85b77-9dec-4f97-bf29-93756d8083df:
   '000463':
   - sub-vg07/sub-vg07_ses-20250627T152816_image/1f0c5501-f138-499b-936f-50dfb6bb6334_external_file_2.avi
+1307d82a-be04-4c1d-9bfc-265a66e73f23:
+  '000431':
+  - sub-foo/sub-foo_ses-test-automatic-upload-linux-3-13-14.nwb
 13250253-3f16-4fbd-8131-eda9bd461e55:
   '000463':
   - sub-ADPTM06/sub-ADPTM06_ses-20250423T153420_image/57394d3a-3ea6-4107-82bb-927b919b4d67_external_file_4.avi
@@ -1584,6 +1587,9 @@
 253d36d6-55cd-4568-94af-0c3c99a1440b:
   '000463':
   - sub-msn04/sub-msn04_ses-20230719T174401_image.nwb
+255e3986-69f1-434a-9b52-a1fb4f1e59b0:
+  '000431':
+  - sub-foo/sub-foo_ses-test-automatic-upload-win32-3-13-14.nwb
 25613ed9-0b24-44a9-8f4c-05339b69cd49:
   '000463':
   - sub-vgm101/sub-vgm101_ses-20251003T155838_image/fadc83b2-619b-4def-afc4-18b94aef7922_external_file_5.avi
@@ -1995,9 +2001,6 @@
 2e9f908b-de9a-44bf-aaa1-a71e8ce0549b:
   '000463':
   - sub-ADPTM04/sub-ADPTM04_ses-20250415T134546_image.nwb
-2ea3fc31-dc9d-4eb1-9bba-8e18876cb05e:
-  '000431':
-  - sub-foo/sub-foo_ses-test-automatic-upload-win32-3-13-14.nwb
 2eb8fe4a-45dd-4c74-a080-eb19d1cf5129:
   '000463':
   - sub-m04RF/sub-m04RF_ses-20250203T163359_image/3ee29464-704a-4946-8b0a-446fdcb6dc20_external_file_5.avi
@@ -2931,6 +2934,9 @@
 46b7ab5f-38e0-427e-b752-89db3d8c3c7b:
   '000463':
   - sub-ADPTM06/sub-ADPTM06_ses-20250415T151821_image/4170db26-2a10-408c-aec7-a16b2068c62d_external_file_5.avi
+46bd59a9-fc78-4ce4-8c59-e83c2ad67cb5:
+  '000431':
+  - sub-foo/sub-foo_ses-test-automatic-upload-darwin-3-10-11.nwb
 46bd7a77-a36b-47c2-ac60-36bb5eb017e1:
   000468:
   - sub-Anm001/sub-Anm001_ses-648518346349537380.nwb
@@ -4731,9 +4737,6 @@
 718b1527-9e13-4667-8a20-2dc5228f6699:
   '000463':
   - sub-m2669423/sub-m2669423_ses-20240418T145101_image/e0724c37-be43-4318-b099-b7076ca33851_external_file_4.avi
-718ecce4-a2f7-413a-ba5a-43aad0097723:
-  '000431':
-  - sub-foo/sub-foo_ses-test-automatic-upload-darwin-3-13-13.nwb
 71a2e7c8-b41c-4c5c-b8d6-50a51cb4f2cb:
   '000463':
   - sub-vgc01/sub-vgc01_ses-20250712T195841_image/efacd321-1cb2-45d8-a52a-698c3f6d29f9_external_file_4.avi
@@ -5730,6 +5733,9 @@
 8835d3d4-4ba7-41a8-83c0-d48921a825ad:
   '000463':
   - sub-CC02718207/sub-CC02718207_ses-20240530T145319_image.nwb
+8841e8fa-1ec5-4560-8ed9-2d0e2b1db088:
+  '000431':
+  - sub-foo/sub-foo_ses-test-automatic-upload-darwin-3-10-20.nwb
 88508a07-fcc6-4572-8b27-99d22cbc09e8:
   '000463':
   - sub-mpn02/sub-mpn02_ses-20251221T180049_image/8b98c163-075c-4232-beb2-7c88d4366000_external_file_2.avi
@@ -6096,9 +6102,6 @@
 901f26d5-3f0a-4e9b-81ed-383e13793645:
   '000463':
   - sub-ADPTM03/sub-ADPTM03_ses-20250310T145652_image/2dd83d87-c8ba-43c8-a315-cd221f59498d_external_file_3.avi
-902c2391-d33d-46dd-9d17-96d94e9e982f:
-  '000431':
-  - sub-foo/sub-foo_ses-test-automatic-upload-win32-3-10-11.nwb
 90675475-9d94-416b-b286-05d5cfd7bf09:
   '000463':
   - sub-mpn01/sub-mpn01_ses-20251221T165028_image.nwb
@@ -6654,9 +6657,6 @@
 9cce9a02-6356-4ab3-8faa-bffa711ca46c:
   '000465':
   - sub-EY4152/2022-04-30_14-13-26.mp4
-9cdc1c01-a9f2-495e-b21b-00618db2b098:
-  '000431':
-  - sub-foo/sub-foo_ses-test-automatic-upload-linux-3-13-14.nwb
 9cddf2b7-5477-4a4a-9008-6d91a66d1524:
   '000463':
   - sub-m02RF/sub-m02RF_ses-20241105T142150_image/5647f84c-5099-4cd4-a3b5-bf409e84f44f_external_file_5.avi
@@ -7092,9 +7092,6 @@ a9045348-652c-46ab-a932-f67f1f67554d:
 a90def32-66d8-4876-81cb-b02e7b92a14c:
   '000470':
   - derivatives/incoming/id-f8a8d0af86094e3db48a7cc7de455d89.slp
-a921ce02-5fac-46f2-baec-961933863a3e:
-  '000431':
-  - sub-foo/sub-foo_ses-test-automatic-upload-darwin-3-10-20.nwb
 a92cc33d-e9e1-448e-bfe3-36078e570502:
   '000463':
   - sub-msn01/sub-msn01_ses-20230517T201918_image/b4aa68aa-5ba3-4475-b3a9-7eda27561ff5_external_file_0.avi
@@ -7122,6 +7119,9 @@ a99dc12b-1dfc-4a98-9e04-49547d193ac4:
 a9ae7eef-b0ed-4fe1-abb7-349686247d78:
   '000465':
   - sub-KW7193/sub-KW7193_ses-090121_image/7640d04a-40e5-4acb-a52f-bc2fee580527_external_file_0.mp4
+a9d084b2-0b34-4999-bc2f-dad39fc28117:
+  '000431':
+  - sub-foo/sub-foo_ses-test-automatic-upload-darwin-3-13-13.nwb
 a9d92c6d-2463-4615-825b-1128b200a3ab:
   '000463':
   - sub-vgm102/sub-vgm102_ses-20251103T174334_image/c5914807-3b78-4b8b-8086-8b94d4ba7182_external_file_0.avi
@@ -7728,9 +7728,6 @@ b98e93a4-a56d-4711-836f-8eaf85dbd82b:
 b9c97936-c791-4860-a96f-f8e71a550d7d:
   '000463':
   - sub-m01RF/sub-m01RF_ses-20241030T163854_image/d3bbf8fc-b1ec-4e99-8fe9-fff176ef8639_external_file_2.avi
-b9de2aa9-1b0f-49da-a6e4-233e0ee555c5:
-  '000431':
-  - sub-foo/sub-foo_ses-test-automatic-upload-darwin-3-10-11.nwb
 b9e0e853-7e5d-4644-9537-a8105f61f3f3:
   '000463':
   - sub-CC02718201/sub-CC02718201_ses-20240530T141147_image/e595282a-fd23-4020-96ca-d1b3a43a9dd4_external_file_2.avi
@@ -9063,6 +9060,9 @@ d98785ee-4599-43ec-a049-d320316087af:
 d995592b-b82a-475e-ab29-0bfcf2eb6e22:
   '000463':
   - sub-ADPTM01/sub-ADPTM01_ses-20250304T114301_image.nwb
+d999238f-d070-41fd-b95f-d75a8a6c2171:
+  '000431':
+  - sub-foo/sub-foo_ses-test-automatic-upload-win32-3-10-11.nwb
 d9a0422d-fe0e-436b-93a0-6c0982fb94b5:
   '000465':
   - sub-KW7193/sub-KW7193_ses-091021_image/7126c7a7-85c0-4038-8630-3f4610a4425b_external_file_0.mp4
