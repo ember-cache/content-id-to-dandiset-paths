@@ -1,6 +1,9 @@
 0016ee67-5f61-4ed2-a60d-3400085ba606:
   '000463':
   - sub-vg04/sub-vg04_ses-20250520T153133_image/67b0150b-48f3-44fd-b43a-39899bb11db4_external_file_3.avi
+0019649c-f6a1-4bce-abc2-7f0dd018f0bf:
+  '000527':
+  - sub-01/video/sub-01_desc-cbr800k_video.mp4
 002c42c9-426b-425f-aa9a-24669a242b2a:
   '000463':
   - sub-vgm100/sub-vgm100_ses-20251007T154219_image/fbfce53c-04e0-438b-a153-891a26f58d61_external_file_0.avi
@@ -211,6 +214,9 @@
 05136519-bc31-4599-af22-b84cfacc859b:
   '000463':
   - sub-ADPTM05/sub-ADPTM05_ses-20250417T134920_image/d7621062-a4e7-4651-84ae-2cfe224de562_external_file_4.avi
+0531ff75-2f61-4588-91e5-db8b8d231a9b:
+  '000527':
+  - sub-01/video/sub-01_desc-h264high444_video.mp4
 0533fede-0740-4f0f-b564-85d127139cb9:
   '000463':
   - sub-m05RF/sub-m05RF_ses-20250204T111448_image/dbd22ab9-118e-4411-998d-c2683d6d4ec1_external_file_1.avi
@@ -1014,6 +1020,9 @@
 170f8526-f755-4d28-a2b8-05ff74109e99:
   '000463':
   - sub-ADPTM05/sub-ADPTM05_ses-20250417T134920_image/d7621062-a4e7-4651-84ae-2cfe224de562_external_file_5.avi
+171176c8-999f-4d58-b8d0-1c8a2252ea63:
+  '000527':
+  - sub-01/video/sub-01_desc-quicktime_video.mov
 171a8491-b4eb-4fba-99da-576b05c2563a:
   '000463':
   - sub-mpn00/sub-mpn00_ses-20251220T191537_image/8278103d-6c91-4856-87c7-70ce4fe48c07_external_file_1.avi
@@ -1026,6 +1035,9 @@
 1752349f-9cb5-4ac0-9834-26579dce298b:
   '000463':
   - sub-emg00/sub-emg00_ses-20231213T170220_image.nwb
+175540af-4a05-4113-b79d-28f6247b140a:
+  '000527':
+  - sub-01/video/sub-01_desc-richtags_video.mp4
 17825ff9-f2b0-45b5-aafa-6620dbc0a877:
   '000463':
   - sub-ADPTM03/sub-ADPTM03_ses-20250306T175842_image.nwb
@@ -1047,6 +1059,9 @@
 18318b34-e661-4d86-8811-75b3508d1ddd:
   '000463':
   - sub-msn04/sub-msn04_ses-20230718T141840_image/b26af617-62e2-422b-9f1c-e3fe7a170299_external_file_5.avi
+1831dc84-9cd6-4967-8e18-fe9a168d56ff:
+  '000527':
+  - sub-01/video/sub-01_desc-videoonly_video.mp4
 184566a2-8bb9-4ce1-a8be-f6bf14eda693:
   '000463':
   - sub-m06RF/sub-m06RF_ses-20250204T124136_image.nwb
@@ -1474,6 +1489,9 @@
 225dbad3-2d08-4dbb-951e-f89e667e3be9:
   '000463':
   - sub-vgm101/sub-vgm101_ses-20251003T164048_image/33255323-f5e8-40ba-af49-64d8cfae8456_external_file_3.avi
+2264c885-1782-4d63-a201-2895b844e97d:
+  '000527':
+  - sub-01/video/sub-01_desc-hevc_video.mp4
 22687ead-4862-4c59-841e-8e291da4a305:
   '000463':
   - sub-CC02718209/sub-CC02718209_ses-20240530T160542_image/f35d8b0c-a235-43e0-8fa8-75b51f36da1f_external_file_2.avi
@@ -1945,6 +1963,9 @@
 2dc2f814-a1a6-43ae-ac88-cb710aa46709:
   '000463':
   - sub-m04RF/sub-m04RF_ses-20250130T115214_image/9ba9d104-b250-457b-afeb-8e9ee3dcaded_external_file_4.avi
+2dd06a43-fde6-4cd3-a375-4c48ae8b4d9c:
+  '000527':
+  - sub-01/video/sub-01_desc-gopshort_video.mp4
 2dd528d9-4486-45cc-a723-c972189bd111:
   '000463':
   - sub-m2669423/sub-m2669423_ses-20240418T144020_image.nwb
@@ -2224,6 +2245,9 @@
 353ad89b-d48c-45dc-b97a-5e453d631a6f:
   '000463':
   - sub-CC02718201/sub-CC02718201_ses-20240530T135036_image/bfd4a601-43db-433f-9202-69be02bf11b0_external_file_1.avi
+354cc91b-4763-41d8-ab5f-c629428d2247:
+  '000527':
+  - sub-01/video/sub-01_desc-h264baseline_video.mp4
 35533629-20c2-4f88-9a2c-5e4195f62a7d:
   '000463':
   - sub-ADPTM01/sub-ADPTM01_ses-20250313T123225_image/9230c314-e996-48f1-9918-505960d39af5_external_file_1.avi
@@ -2269,6 +2293,9 @@
 367382cc-7e9b-424f-b131-dadbe9823fbd:
   '000463':
   - sub-ADPTM06/sub-ADPTM06_ses-20250425T142451_image/becc0500-6229-4e98-b1c0-a77b23372e24_external_file_2.avi
+367df4e5-4c8b-4804-98dd-9506fab57acf:
+  '000527':
+  - sub-01/video/sub-01_desc-allintra_video.mp4
 36848483-fa65-41f4-b38a-e783e6223ff3:
   '000463':
   - sub-m2669423/sub-m2669423_ses-20240418T143843_image/ca02b81d-66b6-4221-85d9-75d34a35c70a_external_file_2.avi
@@ -2488,6 +2515,9 @@
 3c140ba2-e9ae-4c29-ac9e-2546746c831c:
   '000463':
   - sub-obchr03/sub-obchr03_ses-20241121T143639.nwb
+3c3ff0d6-97b4-4fb8-b064-3cee26fac1dd:
+  '000527':
+  - sub-01/video/sub-01_desc-fragmented_video.mp4
 3c645fce-1f23-4e7f-9731-4505e12960fc:
   '000463':
   - sub-msn05/sub-msn05_ses-20230718T161641_image/a0119c5c-afed-4ffa-8cd9-b13dfb3c4bc9_external_file_4.avi
@@ -2509,6 +2539,9 @@
 3cb0a7e5-aed8-4684-891a-7e059d3bf6f4:
   '000463':
   - sub-ADPTM02/sub-ADPTM02_ses-20250312T144111_image/c3b0ab20-df2a-4c2d-8611-dc1a7e0d2c6d_external_file_4.avi
+3cbc6cb7-614f-4c77-ae1d-7c6e9b37dc34:
+  '000527':
+  - sub-01/video/sub-01_desc-ffv1lossless_video.mkv
 3cd7cc91-051c-4a7b-864c-0e18d29aee1b:
   '000463':
   - sub-m2698114/sub-m2698114_ses-20240418T153509_image/150812fa-eeea-4871-9c33-e1c5ab319e79_external_file_4.avi
@@ -2797,6 +2830,9 @@
 437f4faa-e8ee-438a-b7ba-857ee219c2a3:
   '000463':
   - sub-m02RF/sub-m02RF_ses-20241106T164830_image/6e8ea8c0-9e5c-4f78-850f-047f51fadbb1_external_file_0.avi
+43868927-28d4-4f73-8c38-d99cb9348ea2:
+  '000527':
+  - sub-01/video/sub-01_desc-halfres_video.mp4
 43a0e653-e3f2-4715-bbab-57d2f4c84060:
   '000463':
   - sub-m05RF/sub-m05RF_ses-20250129T162803_image/57a66190-d223-48ad-8524-beaac086b27c_external_file_5.avi
@@ -3115,6 +3151,9 @@
 4a944beb-59d6-47c2-beb7-e2e2404b5819:
   '000463':
   - sub-msn05/sub-msn05_ses-20230718T160953_image/45ecdd7e-9872-4a6e-84a9-113b7be2e922_external_file_5.avi
+4a985f88-d73d-41f2-afb2-3f3bb324376b:
+  '000527':
+  - sub-01/video/sub-01_desc-reference_video.mp4
 4aa1d16d-8fa3-42e5-90b6-0a43618af794:
   '000463':
   - sub-msn07/sub-msn07_ses-20240522T190745_image/c6f0579d-d8f4-4676-b008-94ee7520e28d_external_file_3.avi
@@ -3280,6 +3319,9 @@
 4e46b473-64e6-4a21-9a11-305b824dddb2:
   '000463':
   - sub-ADPTM04/sub-ADPTM04_ses-20250415T130037_image/72f185ad-698b-4256-855d-92de5f8a35f7_external_file_1.avi
+4e675f4f-0056-4222-a3f6-c9b27da8af00:
+  '000527':
+  - sub-01/video/sub-01_desc-starved150k_video.mp4
 4e77840c-83be-46ad-be9f-052339d3933c:
   '000463':
   - sub-vg02/sub-vg02_ses-20250403T170235_image/8fed9ea7-2d98-4f0b-aaf8-d92c0c02b518_external_file_2.avi
@@ -3829,6 +3871,9 @@
 5b878078-9d25-4dae-971f-8b234961089f:
   '000463':
   - sub-m05RF/sub-m05RF_ses-20250204T120642_image/20834319-2df5-475c-9b3f-28937874c6f0_external_file_0.avi
+5b947119-5317-4bf0-8161-5605abcb1d08:
+  '000527':
+  - sub-01/video/sub-01_desc-av1_video.mp4
 5b9f7acd-ffc4-4ab7-b42c-2cb081ea2284:
   '000463':
   - sub-ADPTM02/sub-ADPTM02_ses-20250306T171432_image/98cdc5fa-3605-4154-af8e-4511506df324_external_file_3.avi
@@ -3883,6 +3928,9 @@
 5d001831-0124-425a-9609-9d69e10d8c93:
   '000463':
   - sub-m05RF/sub-m05RF_ses-20250129T162315_image/8bf7d256-b31f-4e9b-b456-5feb3c727063_external_file_4.avi
+5d105abe-1548-4beb-b366-ba2bac869037:
+  '000527':
+  - sub-01/video/sub-01_desc-nobframes_video.mp4
 5d1b5f59-c412-4693-8fad-3e2db314f63f:
   '000465':
   - sub-AG25290/sub-AG25290_ses-112221_image/38b9945d-7817-4ccf-8453-11380e69a455_external_file_0.mp4
@@ -4036,6 +4084,9 @@
 61f177ce-3882-49d7-8de3-4d7c07af3ba8:
   '000465':
   - sub-AG25290/sub-AG25290_ses-112921_image.nwb
+6207cdaf-5534-4376-a82a-72c049e64ab8:
+  '000527':
+  - sub-01/video/sub-01_desc-nofaststart_video.mp4
 620d7aa8-69e5-443a-8da2-358aa16bb8e8:
   '000463':
   - sub-m02RF/sub-m02RF_ses-20241105T143907_image/0b4d7945-b925-451c-bc28-43444a90764e_external_file_2.avi
@@ -5632,6 +5683,9 @@
 869f86f8-5557-4789-9aaa-4dd5c83fc9f3:
   '000463':
   - sub-CC02718209/sub-CC02718209_ses-20240530T162344_image/e1fbd5ae-7203-4e10-8946-88dcd9115909_external_file_4.avi
+86a85a2e-b1b3-450f-b08d-5e2b5e523d97:
+  '000527':
+  - sub-01/video/sub-01_desc-rotated90_video.mp4
 86b7d542-230d-45ee-b37d-5c848559e561:
   '000463':
   - sub-vg03/sub-vg03_ses-20250418T174249_image/3b5376f5-47fa-470c-8ec6-c407e774c588_external_file_2.avi
@@ -5950,6 +6004,9 @@
 8d73898f-0090-41e3-9da5-f4c4553d9624:
   '000463':
   - sub-ADPTM03/sub-ADPTM03_ses-20250311T151208_image/7796d651-5c27-456a-b340-57fb8f72677b_external_file_3.avi
+8d78c56c-6b90-475c-8dac-7725ec238374:
+  '000527':
+  - sub-01/video/sub-01_desc-goplong_video.mp4
 8d98d15b-f108-499d-a394-e1be56264a69:
   '000463':
   - sub-obgfp02/sub-obgfp02_ses-20250506T153613.nwb
@@ -7186,6 +7243,9 @@ accbc1eb-5435-443d-80c9-3c7745bbf057:
 accf812b-000e-4dab-8864-9803ef867c25:
   '000463':
   - sub-msn02/sub-msn02_ses-20230615T182925_image.nwb
+ad1ef929-da07-43ff-a1a7-5f5b9d45313e:
+  '000527':
+  - sub-01/video/sub-01_desc-notags_video.mp4
 ad31a5c4-60a3-4000-813b-38b3950af6d6:
   '000463':
   - sub-ADPTM03/sub-ADPTM03_ses-20250312T152106_image/87725d2a-ce65-4e99-925f-089604830616_external_file_4.avi
@@ -7570,6 +7630,9 @@ b74a8f52-4997-4256-9365-f2a72adfadcb:
 b75dddba-f145-4b07-bfc7-95a7145fa10a:
   '000463':
   - sub-CC02718201/sub-CC02718201_ses-20240530T134613_image/4d7a2840-0250-4f0c-95e7-547f14f743b4_external_file_0.avi
+b767ecf5-4e4c-46f4-a505-c051b3b38b63:
+  '000527':
+  - sub-01/video/sub-01_desc-bframes8_video.mp4
 b76cfeaa-609c-4a7d-a72d-390458f718ff:
   '000463':
   - sub-msn04/sub-msn04_ses-20230801T145941_image/b95cad68-3d5d-484b-9e64-4e73172eb44a_external_file_3.avi
@@ -8374,6 +8437,9 @@ c9a5784a-8211-4cf7-a785-cc5565ad1c8f:
 c9b5ef5c-c9aa-4bb0-829e-b9397308a465:
   '000463':
   - sub-msn02/sub-msn02_ses-20230615T182353_image/66a63d63-8f55-4ecd-a6b2-f81ca461c40a_external_file_0.avi
+c9bd0f3a-8897-4d97-9f9b-a8e1b5edd341:
+  '000527':
+  - sub-01/video/sub-01_desc-h264high10_video.mp4
 c9c46f27-daa8-4a98-b51c-030a50e0e7e5:
   '000463':
   - sub-ADPTM06/sub-ADPTM06_ses-20250417T145802_image/2db2cef1-a5ff-490e-af07-e79f9a98647a_external_file_0.avi
@@ -8485,6 +8551,9 @@ cbea6114-56d9-4b9d-a576-5934e8572e86:
 cc027406-3e6f-46fb-9d9f-70e3e88f31c1:
   000469:
   - derivatives/incoming/id-acb622ce377e4f8f8db95845e9840847.json
+cc04d0eb-66de-42a6-a13b-43f28ae661ee:
+  '000527':
+  - sub-01/video/sub-01_desc-matroska_video.mkv
 cc1cfea4-2e7a-4f7b-9d1c-90e390578f2c:
   '000463':
   - sub-ADPTM06/sub-ADPTM06_ses-20250425T142220_image/61602c35-60f2-4dde-9709-0d85ccebf32e_external_file_0.avi
@@ -8968,6 +9037,9 @@ d825cd39-4b6d-48f9-8c70-f5729f752e1b:
 d888ae58-05d1-4d04-b05b-202a0dd16fb9:
   '000463':
   - sub-m2669423/sub-m2669423_ses-20240418T143057_image/89b5d28e-54b0-4076-b2b2-53e6327cedaa_external_file_3.avi
+d88ad50b-866c-4cec-9e8d-600588fa21a4:
+  '000527':
+  - sub-01/video/sub-01_desc-avimpeg4_video.avi
 d890efd6-263c-4617-bd7f-7abc77823e51:
   '000463':
   - sub-msn02/sub-msn02_ses-20230615T182353_image.nwb
@@ -9825,6 +9897,9 @@ eefede81-cb9f-48b1-a79c-5261abc246cd:
 ef320119-07b6-4b70-9a28-c0f2980f1d77:
   '000463':
   - sub-mpn03/sub-mpn03_ses-20260108T182314_image/f6c94119-1eff-4dfc-ba8a-49b6ef709852_external_file_0.avi
+ef4bf0c7-39ea-4a70-8cb0-3a1310b40966:
+  '000527':
+  - sub-01/video/sub-01_desc-mjpeg_video.mov
 ef4fc0b6-9583-467d-a18c-51dd886daa3f:
   '000463':
   - sub-ADPTM04/sub-ADPTM04_ses-20250425T114404_image/74bcea8b-44b4-4d9a-8387-917ea602b0e8_external_file_3.avi
@@ -10623,3 +10698,6 @@ ffd4f3aa-db3f-4561-b379-e45bfacdbcdb:
 ffe4b58c-c723-4316-9ebc-08c50e62bf90:
   '000463':
   - sub-msn04/sub-msn04_ses-20230719T173031_image/5b10f9da-ea64-4a60-b1a1-8d95169321f9_external_file_0.avi
+fff95e25-5604-468a-b11c-3c4bbdf214dc:
+  '000527':
+  - sub-01/video/sub-01_desc-vfr_video.mp4
