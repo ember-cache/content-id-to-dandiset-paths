@@ -999,6 +999,9 @@
 160f4bb1-5cbf-4cd9-9dc0-63de275193b6:
   '000463':
   - sub-m02RF/sub-m02RF_ses-20241106T164830_image/6e8ea8c0-9e5c-4f78-850f-047f51fadbb1_external_file_5.avi
+161725e7-afc5-4d51-beeb-a05ada596b35:
+  '000533':
+  - task-two-arm-bandit-task/sub-realtest/bandit_sub-01_ses-01.zip
 16213a6d-5f78-4835-a13f-2876cbed5e89:
   '000463':
   - sub-ADPTM05/sub-ADPTM05_ses-20250417T134641_image/4dee2931-e693-474d-9d9b-ecfd3c2b769e_external_file_5.avi
@@ -1287,6 +1290,9 @@
 1d234c11-7c95-4a6d-92d7-6af96cee26fc:
   '000463':
   - sub-m05RF/sub-m05RF_ses-20250130T124334_image/14ea15d5-a260-4b33-8967-185e4dc0335a_external_file_4.avi
+1d2b3ccf-7b05-4653-85aa-fad7bc3db821:
+  '000532':
+  - sub-AS2/sub-AS2_ses-070926_ecephys.nwb
 1d358632-8ef4-4266-896e-e3b7f6d0a369:
   '000463':
   - sub-vg04/sub-vg04_ses-20250520T150735_image/7eea5e84-be1f-4f43-8b22-0a861f700221_external_file_4.avi
@@ -2283,6 +2289,9 @@
 34ec0802-fa81-44b6-8667-a4bf3c7b9dfe:
   '000463':
   - sub-ADPTM04/sub-ADPTM04_ses-20250423T131725_image/b82a49d8-3ccd-4a0a-91a0-2ff0d35dce44_external_file_0.avi
+34ee34e1-ff7e-47cd-91a2-072361de8f34:
+  '000532':
+  - sub-AS2/sub-AS2_ses-070526_ecephys.nwb
 34fb4614-952a-4671-b0f1-4da954cbaf5d:
   '000463':
   - sub-ADPTM04/sub-ADPTM04_ses-20250415T133423_image/8c778748-a807-49f4-90c4-6f82f3edfa39_external_file_3.avi
@@ -3807,6 +3816,9 @@
 5936a245-e57e-43ca-bf0b-110a9bfb7e5d:
   '000463':
   - sub-msn05/sub-msn05_ses-20230718T160701_image/1d072e18-018c-4c99-b0ad-cd784e954520_external_file_2.avi
+593debde-2523-4736-aef7-73e10c5b9b55:
+  '000532':
+  - sub-AS2/video2026-07-09T10_26_08.mkv
 59505d58-2b17-48c2-93b8-ec50d726fbde:
   '000463':
   - sub-vg05/sub-vg05_ses-20250603T183341_image/b277ec8f-6c62-4e38-8f4b-a2a36de677e8_external_file_5.avi
@@ -4188,6 +4200,9 @@
 622c55ca-dd2c-4c8d-911c-49449fc5f438:
   '000463':
   - sub-ADPTM05/sub-ADPTM05_ses-20250425T133902_image/c911bd6e-5ef1-4777-a1b5-fd52d4f96351_external_file_5.avi
+62419e77-3984-4396-83da-7d5fb2d23e3e:
+  '000532':
+  - sub-AS2/video2026-07-05T12_38_12.mkv
 625112b1-936d-43b3-b499-f1aa20f7076f:
   '000463':
   - sub-ADPTM06/sub-ADPTM06_ses-20250415T144622_image.nwb
@@ -10091,6 +10106,10 @@ edac2f6e-b956-45fc-8552-cc107727c8ba:
 edc55698-f733-478a-880f-1922a402e839:
   '000463':
   - sub-vg05/sub-vg05_ses-20250603T182823_image/0290a25e-3571-450e-8f92-41e2a3ebe78e_external_file_0.avi
+eddf16ab-a635-41b4-9cda-b246c6acd163:
+  '000533':
+  - task-two-arm-bandit-task/sub-testuser/bandit_sub-01_ses-01.zip
+  - task-verification-test/sub-manual/test.txt
 ede2877b-367d-4bbd-a93f-940fb6be336d:
   '000463':
   - sub-mpn01/sub-mpn01_ses-20251221T165957_image.nwb
