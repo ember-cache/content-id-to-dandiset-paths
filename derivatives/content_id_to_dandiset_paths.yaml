@@ -286,6 +286,9 @@
 06875842-abfe-4568-a7df-42a727aac44c:
   '000463':
   - sub-ADPTM06/sub-ADPTM06_ses-20250425T142715_image/36e831d6-aa8d-415a-913f-dfae73f5b92d_external_file_4.avi
+068956bd-a2bd-4ee8-a1dd-a1fb88fba31f:
+  '000532':
+  - sub-AS2/sub-AS2_ses-071426_ecephys.nwb
 06a41879-59d2-48d3-933f-2aa6942bcc74:
   '000463':
   - sub-msn05/sub-msn05_ses-20230718T160701_image/1d072e18-018c-4c99-b0ad-cd784e954520_external_file_5.avi
@@ -1001,6 +1004,11 @@
   - sub-m02RF/sub-m02RF_ses-20241106T164830_image/6e8ea8c0-9e5c-4f78-850f-047f51fadbb1_external_file_5.avi
 161725e7-afc5-4d51-beeb-a05ada596b35:
   '000533':
+  - task-asst-digging-task/sub-8c18ac71-9d63-4282-a9c4-3f0602e3f9c7/bandit_sub-01_ses-01.zip
+  - task-asst-digging-task/sub-gopal-metacell-us/probe-a.zip
+  - task-asst-digging-task/sub-gopal-metacell.us/bandit_sub-01_ses-01.zip
+  - task-asst-digging-task/sub-gopal.metacell.us/probe-b.zip
+  - task-asst-digging-task/sub-gopal_metacell_us/probe-c.zip
   - task-two-arm-bandit-task/sub-realtest/bandit_sub-01_ses-01.zip
 16213a6d-5f78-4835-a13f-2876cbed5e89:
   '000463':
@@ -9881,6 +9889,9 @@ e7c8abef-15f3-4fe8-a642-89b69e284531:
 e7d5790c-6782-4e43-88a7-b62e80e02193:
   '000463':
   - sub-m2669423/sub-m2669423_ses-20240418T143057_image/89b5d28e-54b0-4076-b2b2-53e6327cedaa_external_file_1.avi
+e80a8849-b328-4336-aa42-65cd42155b95:
+  '000532':
+  - sub-AS2/video2026-07-15T09_20_19.mkv
 e81a11c3-d8bc-4a1a-8413-8e4a65ee898c:
   '000463':
   - sub-ADPTM01/sub-ADPTM01_ses-20250305T144955_image.nwb
@@ -9899,6 +9910,9 @@ e881fa32-0890-45bd-bb07-7dab690228a6:
 e88dff2d-858b-4f21-82e1-ec2c16355314:
   '000463':
   - sub-vg03/sub-vg03_ses-20250418T173508_image/120ecde3-ae30-4446-8ad5-b40edee0dc22_external_file_0.avi
+e899189b-ad5a-4bfc-9598-d0c4b2cddf12:
+  '000532':
+  - sub-AS2/sub-AS2_ses-071526_ecephys.nwb
 e8ac4dcc-4d7f-46dc-a021-90b7aaf369a2:
   '000463':
   - sub-mpn04/sub-mpn04_ses-20260109T174255_image/435c3943-fa17-4eb4-aad8-7e5a682af9e8_external_file_3.avi
@@ -10545,6 +10559,9 @@ f7402d37-166d-4e67-bb8a-b5bfe861b692:
 f741374e-ed09-4a08-acc5-935ec0aabda5:
   '000463':
   - sub-mpn00/sub-mpn00_ses-20251220T190757_image.nwb
+f742f04e-b105-46a4-bc2d-957fff2bfbdb:
+  '000532':
+  - sub-AS2/video2026-07-14T12_12_47.mkv
 f757a608-e1b0-4599-9cb7-8353e480a885:
   '000463':
   - sub-CC02718207/sub-CC02718207_ses-20240530T143736_image.nwb
