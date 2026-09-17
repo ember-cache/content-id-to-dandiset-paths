@@ -10251,6 +10251,7 @@ edc55698-f733-478a-880f-1922a402e839:
 eddf16ab-a635-41b4-9cda-b246c6acd163:
   '000533':
   - task-two-arm-bandit-task/sub-testuser/bandit_sub-01_ses-01.zip
+  - task-verification-test/sub-manual/metadata-fix-probe.txt
   - task-verification-test/sub-manual/test.txt
 ede2877b-367d-4bbd-a93f-940fb6be336d:
   '000463':
