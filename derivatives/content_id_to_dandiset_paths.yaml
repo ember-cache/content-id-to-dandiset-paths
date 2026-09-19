@@ -2190,6 +2190,9 @@
 312b9f48-ac72-4be4-a7c5-c02bf7583f48:
   '000463':
   - sub-ADPTM06/sub-ADPTM06_ses-20250417T151129_image/e4f048ef-fbc9-43d4-a005-7323508956d2_external_file_5.avi
+3147515c-20f6-4e99-ba59-fc0af769db86:
+  '000532':
+  - sub-AS2/video2026-07-27T13_00_52.mkv
 314d0181-728a-40a7-af73-1892c74a1cb8:
   '000463':
   - sub-vgc02/sub-vgc02_ses-20251217T193440_image/0a9b13c4-5e1d-41f7-a576-f38c6b3a48c5_external_file_4.avi
@@ -4224,6 +4227,9 @@
 61279519-ec45-46f8-94ed-e9e54614141f:
   '000463':
   - sub-CC02718201/sub-CC02718201_ses-20240530T134742_image/404d3819-66a8-4705-a17f-a02e42d424d4_external_file_5.avi
+613187b0-3333-4f9c-a8a4-c8aaa465247c:
+  '000532':
+  - sub-AS2/sub-AS2_ses-072726_ecephys.nwb
 61453259-5a61-44e8-9a3a-35133a39875a:
   '000463':
   - sub-m02RF/sub-m02RF_ses-20241030T183950_image/f7b45c86-d193-453c-9117-ab23abf9873c_external_file_4.avi
@@ -6921,6 +6927,9 @@
 9b720f23-778f-444a-a273-10729d97e1c5:
   '000463':
   - sub-vg04/sub-vg04_ses-20250520T150521_image/622cda8e-89c0-4850-8fae-a1398bfb85a7_external_file_5.avi
+9ba52222-1338-4d28-9fdc-ceddcf8643d3:
+  '000532':
+  - sub-AS2/sub-AS2_ses-072626_ecephys.nwb
 9bbc3189-6d0d-49c1-82ba-5851623bad17:
   '000463':
   - sub-m04RF/sub-m04RF_ses-20250205T132801_image/be45ec69-0e06-441d-b5c1-ec1c4139cea5_external_file_4.avi
@@ -7239,6 +7248,9 @@ a49e30dd-6c87-4134-b284-c5bf21665760:
 a4aa81f3-2031-4369-a675-d1bb03978d12:
   '000463':
   - sub-ADPTM01/sub-ADPTM01_ses-20250313T125421_image/f3e96a97-a843-4895-9e0b-78564b341195_external_file_2.avi
+a4aece5a-5931-430f-a52d-13ac08dda9e7:
+  '000532':
+  - sub-AS2/video2026-07-26T11_20_28.mkv
 a4b2a388-fd8f-4a09-b67e-408cee4acf84:
   '000463':
   - sub-vgm100/sub-vgm100_ses-20251002T151036_image.nwb
@@ -7995,6 +8007,9 @@ b7d3fa08-ffc2-490f-969e-827198400cdb:
 b80dbc1e-5441-424e-9472-c09c0f0693bd:
   '000463':
   - sub-mpn00/sub-mpn00_ses-20251220T190757_image/babc2403-04bd-442c-b719-010f1498d64c_external_file_4.avi
+b81560ae-ac6e-4c6d-a986-0c6432c61b91:
+  '000532':
+  - sub-AS1/sub-AS1_ses-090826_ecephys.nwb
 b8192efe-815a-45a1-ad98-0f5f7ecb7c6c:
   '000463':
   - sub-ADPTM02/sub-ADPTM02_ses-20250312T144630_image/0f49d041-a4dd-4fd2-a3be-5601e3e1352a_external_file_4.avi
@@ -10031,6 +10046,9 @@ e785f9c5-ed25-409c-b6b9-e1b1afa1beb1:
 e78eabc6-d364-4b02-95dd-507607061d99:
   '000463':
   - sub-m01RF/sub-m01RF_ses-20241104T151631_image/54bbaa34-d700-42da-bc09-bc3d33ac95f4_external_file_0.avi
+e79bb21d-23e5-4c43-8ec2-18baa80615a1:
+  '000532':
+  - sub-AS1/video2026-09-08T12_32_02.mkv
 e7c8abef-15f3-4fe8-a642-89b69e284531:
   '000463':
   - sub-CC02718201/sub-CC02718201_ses-20240530T140704_image/f4e99ef6-b5ab-4ada-a557-ed0f8b4da252_external_file_4.avi
