@@ -1035,6 +1035,8 @@
   - task-two-arm-bandit-task/sub-realtest/bandit_sub-01_ses-01.zip
   '000542':
   - task-two-arm-bandit-task/sub-c2aba4f6-b5dc-4ad6-8212-770dec89e143/bandit_sub-01_ses-01.zip
+  '000550':
+  - four-choice-reversal-digging-task/bandit_sub-01_ses-01.zip
 16213a6d-5f78-4835-a13f-2876cbed5e89:
   '000463':
   - sub-ADPTM05/sub-ADPTM05_ses-20250417T134641_image/4dee2931-e693-474d-9d9b-ecfd3c2b769e_external_file_5.avi
@@ -6702,6 +6704,9 @@
 95bacae9-4166-4e14-896d-033361aea10d:
   '000463':
   - sub-mpn04/sub-mpn04_ses-20260109T182738_image/24e61e33-7c1e-426f-85bf-c0f5c3838d8b_external_file_2.avi
+95be9f56-db54-46de-865b-b7766c199fea:
+  '000551':
+  - four-choice-reversal-digging-task/idp-test-four-choice-animal-01.xlsx
 95cdf689-6fd8-430a-9cbe-7b6336a50379:
   '000463':
   - sub-ADPTM06/sub-ADPTM06_ses-20250417T150759_image/6dedfa7a-f72d-4048-9976-f6af1f500c85_external_file_5.avi
