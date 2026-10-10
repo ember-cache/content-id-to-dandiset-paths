@@ -10753,6 +10753,11 @@
   - four-choice-reversal-digging-task/idp-test-four-choice-animal-01.xlsx
   000559:
   - four-choice-reversal/c45bc4ae-7a32-42aa-bac0-fe797f36595d/idp-test-four-choice-animal-01.xlsx
+  '000562':
+  - four-choice-reversal/67c6354b-b592-4fdf-a5f9-0a3a41554248/idp-test-four-choice-animal-01.xlsx
+  '000563':
+  - four-choice-reversal/a5d85fd7-5a98-448c-a390-9eb00f7062b0/idp-test-four-choice-animal-01.xlsx
+  - four-choice-reversal/f1401705-1148-4189-a5eb-5e51eeb69c7a/idp-test-four-choice-animal-01.xlsx
 95cdf689-6fd8-430a-9cbe-7b6336a50379:
   '000463':
   - sub-ADPTM06/sub-ADPTM06_ses-20250417T150759_image/6dedfa7a-f72d-4048-9976-f6af1f500c85_external_file_5.avi
@@ -17954,6 +17959,13 @@ fea63826-25ff-4aff-8038-1366112abfd9:
 fea70765-ea71-4523-82b8-2cb04f6d0863:
   '000463':
   - sub-msn04/sub-msn04_ses-20230719T173031_image/5b10f9da-ea64-4a60-b1a1-8d95169321f9_external_file_1.avi
+feb10798-c7f8-48c7-a836-c42db8ae5edb:
+  000559:
+  - four-choice-reversal/fb5748d0-53fd-4c42-9a37-f83684e7bbf5/idp-test-four-choice-animal-02.xlsx
+  '000560':
+  - four-choice-reversal/69d50d49-8ae6-4be7-a2d6-3d586b20654b/idp-test-four-choice-animal-02.xlsx
+  '000561':
+  - four-choice-reversal/08422967-0130-4017-b662-c0f58e1c150b/idp-test-four-choice-animal-02.xlsx
 febf8f8f-0a06-486f-b2d2-e9eef7e3b225:
   '000463':
   - sub-ADPTM06/sub-ADPTM06_ses-20250425T141737_image.nwb
