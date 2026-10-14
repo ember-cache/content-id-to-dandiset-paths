@@ -1,0 +1,4 @@
+2026-10-14T20:00:53Z INFO Logging to /tmp/logs/testing_2026-10-14T20-00-53Z.log.
+2026-10-14T20:00:53Z INFO Update content-id-to-dandiset-paths (base directory /tmp; testing mode).
+2026-10-14T20:00:53Z INFO Reading 10 of 115 asset manifests this run.
+2026-10-14T20:00:54Z INFO Wrote 2 records to /tmp/derivatives/testing_content_id_to_dandiset_paths.zarr in 0.0 min (peak memory 112 MiB).
