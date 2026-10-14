@@ -1,3 +1,4 @@
 [submodule "workspace"]
 	path = workspace
-	url = ./workspace
+	url = ../content-id-to-dandiset-paths.git
+	datalad-url = https://github.com/ember-cache/content-id-to-dandiset-paths.git
