@@ -1,76 +1,52 @@
 name: Update
 
+# What stays here is what is genuinely this cache's own: when it runs, and what a manual dispatch
+# can change. The gate against redundant queued runs, the runner's environment, the registry login,
+# the image, the pipeline and the failure notification are all in the shared action.
+
+permissions:
+  contents: read
+  packages: read
+
 on:
   schedule:
-    - cron: "0 0/2 * * *"
+    # GitHub delays and drops scheduled runs that fall on the hour, so this one runs at a minute of
+    # its own. Every six hours, at the start of each window, since the caches built from this one
+    # run later in it.
+    - cron: "13 */6 * * *"
   workflow_dispatch:
+    inputs:
+      testing:
+        description: "Testing mode: process the cache.toml testing_limit of items into testing_-prefixed files, leaving the real cache untouched."
+        required: false
+        type: boolean
+        default: false
+      limit:
+        description: "Cap on the asset manifests read this run, overriding the limit in cache.toml. The run still publishes the complete cache; the rest waits for the next one."
+        required: false
+        type: string
+        default: ""
+
+# Serialize all runs across every ref: an in-progress update is never cancelled, and a run
+# triggered while one is executing waits in the queue. The action then skips the queued run once it
+# starts, because the update it would perform has just been done.
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: false
 
 jobs:
   Update:
     runs-on: ubuntu-latest
     permissions:
-      contents: write
-
+      contents: read
+      packages: read
+    # So a hung network read cannot burn a full six hours.
+    timeout-minutes: 330
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
+      - uses: dandi-cache/dandi-cache-action@v6
         with:
           token: ${{ secrets._GITHUB_API_KEY }}
-
-      - name: Configure git
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-
-      - name: Install uv
-        uses: astral-sh/setup-uv@v5
-        with:
-          enable-cache: true
-          cache-dependency-glob: "envs/uv.lock"
-
-      - name: Restore sourcedata cache
-        uses: actions/cache@v4
-        with:
-          path: sourcedata
-          key: sourcedata-${{ runner.os }}-${{ github.run_id }}
-          restore-keys: sourcedata-${{ runner.os }}-
-
-      - name: Run update
-        run: |
-          uv run --project envs s5cmd --no-sign-request sync "s3://ember-open-data/dandisets/*/assets.yaml" sourcedata || true
-          uv run --project envs python ./code/update.py
-
-      - name: Upload YAML
-        run: |
-          git add .
-          git commit --message "update" || true  # || true in case of no changes
-          git push
-
-      - name: Run minification
-        run: uv run --project envs python ./code/minify.py
-
-      - name: Upload minification
-        run: |
-          git push origin --delete min || true  # || true in case branch doesn't exist yet
-
-          git checkout -b min
-          git add .
-          git commit --message "update min" || true  # || true in case of no changes
-          git push --set-upstream origin min
-
-  NotifyOnFailure:
-    runs-on: ubuntu-latest
-    needs: [ Update ]
-    if: ${{ always() && failure() }}
-    permissions: {}
-    steps:
-      - uses: dawidd6/action-send-mail@v3
-        with:
-          server_address: smtp.gmail.com
-          server_port: 465
-          username: ${{ secrets.MAIL_USERNAME }}
-          password: ${{ secrets.MAIL_PASSWORD }}
-          subject: "CI Failure: DANDI Cache: Content ID → Dandiset paths update"
-          to: cody.c.baker.phd@gmail.com  # Add more with comma separation (no spaces)
-          from: dandi-cache
-          body: "Please check the latest run of the BIDS-Dandisets Dashboard update: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+          testing: ${{ inputs.testing || false }}
+          limit: ${{ inputs.limit || '' }}
+          mail-username: ${{ secrets.MAIL_USERNAME }}
+          mail-password: ${{ secrets.MAIL_PASSWORD }}
